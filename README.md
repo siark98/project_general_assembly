@@ -1,5 +1,5 @@
 # project_general_assembly
-This project is built for MySTEP Programme 2021 by General Assembly Malaysia. In this project, the players' performance from year 2015 to early 2020 is analyzed, and the data is retrieved from https://www.kaggle.com/mateusdmachado/csgo-professional-matches?select=players.csv
+This project is built for MySTEP Programme 2021 organised by General Assembly Malaysia. In this project, the players' performance from year 2015 to early 2020 is analyzed, and the data is retrieved from https://www.kaggle.com/mateusdmachado/csgo-professional-matches?select=players.csv
 
 Counter-strike is a FPS (First-Person Shooter) game in which two teams of 5 players face each other in a matchup. The game retains the same gameplay concepts since its first version, which include a Terrorist side (T) that is tasked to plant a bomb and have it detonate, and a Counter-Terrorist side (CT) that is tasked to defuse the bomb or prevent it from being planted. Both teams can also win a round by eliminating all players on the opposing team before the bomb is planted.
 

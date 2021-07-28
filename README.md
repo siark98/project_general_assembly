@@ -12,5 +12,3 @@ There are 7 maps in the map pool that are available to be played competitively a
 Counter-strike has an economic system that governs the acquisitions of armor, weapons and grenades by the players. Winning a round award the players with $3250 while losing a round after a winning streak gives them $1400. Losing many times in a short period increases the losing bonus by $500 for every additional loss, as to not penalize the losing team too much. Players can also win money by getting kills and planting or defusing the bomb.
 
 The match in the link https://www.youtube.com/watch?v=EkJu4laFGTs elucidates all of these concepts.
-
-In this project, the players' performance from year 2015 to early 2020 is analyzed, and the data is retrieved from https://www.kaggle.com/mateusdmachado/csgo-professional-matches?select=players.csv
